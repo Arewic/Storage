@@ -1,0 +1,10 @@
+application.viber-bot:
+ auth-token: "481af6b3f267d283-79c4790d86c17614-8dc90691b9fc6810"
+ webhook-url: "https://olalaimbot.herokuapp.com"
+ name: "Boootttttrrr"
+ avatar: "http://avante.biz/wp-content/uploads/Cartoon-Duck-Wallpapers/Cartoon-Duck-Wallpapers-021.jpg"
+
+logging:
+  level:
+    root: DEBUG
+
